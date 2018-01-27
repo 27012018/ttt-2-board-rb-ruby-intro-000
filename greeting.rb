@@ -3,4 +3,4 @@ def greeting
 end
 greeting
 greeting
-greeting.reverse
+puts greeting.reverse
